@@ -7,3 +7,11 @@
     display: flex;
     justify-content: center;
 }
+
+.smell{
+  --bs-gutter-x: 20.5rem;
+}
+
+.rick{
+  --bs-btn-padding-x: 15rem;
+}
