@@ -13,5 +13,37 @@
 }
 
 .rick{
-  --bs-btn-padding-x: 15rem;
+  --bs-btn-padding-x: 8rem;
 }
+
+.cardcust{
+padding-left: 200px;
+  position: absolute;
+  display: inline-block;
+}
+
+.davesrings{
+  display: inline-block;
+  padding-right: 30px;
+
+}
+
+.collect{
+  position: absolute;
+  display: inline-block;
+
+  padding-left:50px;
+}
+
+body{
+  padding: 20px;
+}
+
+.container1{
+  padding: 20px;
+}
+
+.container2{
+  padding: 20px;
+}
+
