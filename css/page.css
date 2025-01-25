@@ -44,6 +44,14 @@ body{
 }
 
 .move{
+  position: absolute;
   height: 200px;
   width: 200px;
+}
+
+.p2{
+ position: absolute;
+ display: inline-block;
+ top: 420px;
+ right: 1200px;
 }
