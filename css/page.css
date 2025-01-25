@@ -1,11 +1,7 @@
-.the-carousel{
-  width: 400px; height: 300px;
-  margin:0 auto;
-}
 
 .this{
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .smell{
