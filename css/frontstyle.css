@@ -1,0 +1,32 @@
+body{
+    padding: 20px;
+}
+
+
+.search{
+background-color: lightskyblue;
+ display: flex;
+
+}
+
+.search2{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ padding-left: 850px;
+
+}
+    
+
+.SB{
+border-color: lightskyblue;
+width: 808px;
+}
+
+.SEButton{
+background-color: lightskyblue;
+border-color: lightskyblue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.searchpart{
+    padding-left: 450px;
+}
