@@ -3,15 +3,13 @@ body{
 }
 
 
-.search{
-background-color: lightskyblue;
- display: flex;
 
-}
 
 .search2{
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  padding-left: 850px;
+ background-color: lightskyblue;
+ display: flex;
 
 }
     
@@ -38,7 +36,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     border-radius: 10px;
     margin: auto;
     align-items: center;
-    justify-content: center;
+    justify-content:center;
     
   
 }
@@ -46,5 +44,12 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .container-fluid{
     align-items: center;
     justify-content:center;
-   display: inline-flex;
+    display: inline-flex;
+    
+}
+
+
+
+.lb{
+    background-color: lightskyblue;
 }
