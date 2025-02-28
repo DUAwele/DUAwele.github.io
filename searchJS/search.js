@@ -14,7 +14,7 @@ console.log(info)
 let picshere = document.getElementById("picshere")
 for(let i = 0; i < info.data.length; i++)
 {
-let img = `<img src="${info.data[i].images.original.url}">`
+let img = `<img src="${info.data[i].images.original.url}">` + info.data[i].title
 picshere.innerHTML += img;
 console.log(info.data[i].images.original.url)
 }

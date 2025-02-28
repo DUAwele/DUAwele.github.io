@@ -30,3 +30,21 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 .searchpart{
     padding-left: 450px;
 }
+
+.row{
+    max-width: 100%;
+    width:  500px;
+    height: auto;
+    border-radius: 10px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    
+  
+}
+
+.container-fluid{
+    align-items: center;
+    justify-content:center;
+   display: inline-flex;
+}
