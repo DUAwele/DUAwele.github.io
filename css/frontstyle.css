@@ -4,8 +4,6 @@ body{
 
 .search2{
 padding-left: 200px;
-
-
 }
   
 
@@ -14,20 +12,21 @@ padding-left: 200px;
   justify-content: space-between;
   background-color: lightskyblue;
   font-family: monospace;
- }
+}
 
 .a1{
 padding-top: 20px;
-  padding-left: 100px;  
+padding-left: 100px;  
 }
+
 .a2{
-    padding-top: 20px;
-    padding-left: 200px;
+padding-top: 20px;
+ padding-left: 200px;
 }
 
 .a3{
-    padding-top: 20px;
-   padding-left: 200px;
+ padding-top: 20px;
+padding-left: 200px;
     
 }
 
@@ -43,7 +42,7 @@ font-family: monospace;
 }
 
 .searchpart{
-    padding-left: 450px;
+ padding-left: 450px;
 }
 
 .row{
@@ -53,19 +52,17 @@ font-family: monospace;
     border-radius: 10px;
     margin: auto;
     align-items: center;
-    justify-content:center;
-    
-  
+    justify-content:center; 
 }
 
 .container-fluid{
-    align-items: center;
-    justify-content:center;
-    display: inline-flex;
+ align-items: center;
+ justify-content:center;
+ display: inline-flex;
 }
 
 
 
 .lb{
-    background-color: lightskyblue;
+ background-color: lightskyblue;
 }
