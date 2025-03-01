@@ -6,7 +6,7 @@ let input = document.getElementById("searchbar").value;
 
 let info = null;
 
-let url = await fetch(`https://api.giphy.com/v1/gifs/search?api_key=${apikey}&q=${input}&limit=5`);
+let url = await fetch(`https://api.giphy.com/v1/gifs/search?api_key=${apikey}&q=${input}&limit=3`);
 
 info = await url.json();
 
@@ -18,6 +18,4 @@ let img = `<img src="${info.data[i].images.original.url}">` + info.data[i].title
 picshere.innerHTML += img;
 console.log(info.data[i].images.original.url)
 }
-
-
 }
