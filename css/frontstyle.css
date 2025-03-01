@@ -2,17 +2,25 @@ body{
     padding: 20px;
 }
 
-
-
-
 .search2{
  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  padding-left: 850px;
- background-color: lightskyblue;
- display: flex;
+
 
 }
-    
+  
+
+.line{
+  display: flex;
+  justify-content: space-between;
+  background-color: lightskyblue;
+ 
+ 
+}
+
+.line2{
+    justify-content: space-between;
+}
 
 .SB{
 border-color: lightskyblue;
